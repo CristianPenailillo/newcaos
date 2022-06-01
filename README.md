@@ -1,2 +1,2 @@
 # newcaos
-pagian web con sjango
+pagian web con django
